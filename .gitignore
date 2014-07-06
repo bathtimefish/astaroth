@@ -1,0 +1,9 @@
+my-recipes/cookbooks/*
+my-recipes/data_bags/*
+my-recipes/roles/*
+
+data/*
+
+.vagrant
+
+!.gitignore

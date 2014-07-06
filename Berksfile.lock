@@ -1,0 +1,53 @@
+{
+  "sources": {
+    "apt": {
+      "locked_version": "2.4.0"
+    },
+    "git": {
+      "locked_version": "4.0.2"
+    },
+    "ruby_build": {
+      "locked_version": "0.8.0"
+    },
+    "mysql": {
+      "locked_version": "4.1.2"
+    },
+    "snort": {
+      "locked_version": "0.10.1",
+      "git": "https://github.com/jtimberman/snort-cookbook.git",
+      "ref": "cc805574a795d7a2f729cc5ef54169cb7d20bce8"
+    },
+    "astaroth": {
+      "locked_version": "4.0.2",
+      "git": "https://github.com/bathtimefish/astaroth-cookbook.git",
+      "ref": "9d8df42b0c8bd06ea1f85d1eb0d33f6f947eb5bb"
+    },
+    "dmg": {
+      "locked_version": "2.2.0"
+    },
+    "build-essential": {
+      "locked_version": "1.4.4"
+    },
+    "windows": {
+      "locked_version": "1.30.0"
+    },
+    "chef_handler": {
+      "locked_version": "1.1.5"
+    },
+    "runit": {
+      "locked_version": "1.5.10"
+    },
+    "yum": {
+      "locked_version": "3.1.2"
+    },
+    "yum-epel": {
+      "locked_version": "0.3.4"
+    },
+    "openssl": {
+      "locked_version": "1.1.0"
+    },
+    "homebrew": {
+      "locked_version": "1.5.4"
+    }
+  }
+}
